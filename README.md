@@ -27,4 +27,6 @@
 ★ [Github](https://github.com/AkankshaSudhagoni) </br>
 ★ [LinkedIn](https://www.linkedin.com/in/akankshasudhagoni/)
 
+<img src="/images/unnamed.jpg" width="380" height="480">
+
 
